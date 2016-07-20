@@ -1,0 +1,18 @@
+Raw Frog,Raw Swordfish,Raw Squalidae,Raw Manta Ray,Raw White Shark
+Gather
+d
+Right 3,Down 10,Right 9
+a
+Left 9,Up 10,Left 3
+
+Raw Frog
+
+Example path, Narwa Harpoon
+Line 1: Items to gather/process/buy. No spaces other than in the actual filename/item name, comma seperated If only one item don't add a comma after it!
+Line 2: Type gather/process
+Line 3: gather direction
+Line 4: Gather path (from Chest)
+Line 5: Stash direction
+Line 6: Stash path (from Gathering point)
+Line 7: Force pet? 0= Forced NO pet mode. 1=Forced YES pet mode
+Line 8: Item to delete from inventory if any. Comma seperated if multiple!
